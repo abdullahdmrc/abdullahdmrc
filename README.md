@@ -13,5 +13,3 @@ I am a 4th-year Computer Engineering student at Dokuz Eylül University with exp
 - **Databases:** PostgreSQL, MongoDB, Firebase 
 - **Tools & Infrastructure:** Docker, GitHub Actions, Google Cloud Platform 
 
-### 📫 Let's Connect!
-- **LinkedIn:** [Abdullah Demirci](https://linkedin.com/in/Abdullah Demirci)
