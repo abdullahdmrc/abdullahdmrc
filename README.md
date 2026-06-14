@@ -8,7 +8,7 @@ I am a 4th-year Computer Engineering student at Dokuz Eylül University with exp
 - 🤖 **AI Integration:** Developing AI-powered applications utilizing LLM's, LangChain4j, RAG architectures, and NLP pipelines.
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, C, SQL, HTML, CSS
+- **Languages:** Java, Python, C, SQL, HTML, CSS
 - **Frameworks/Libraries:** Spring Boot, React, Angular, Bootstrap 
 - **Databases:** PostgreSQL, MongoDB, Firebase 
 - **Tools & Infrastructure:** Docker, GitHub Actions, Google Cloud Platform 
