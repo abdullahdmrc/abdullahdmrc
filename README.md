@@ -5,7 +5,7 @@ I am a 4th-year Computer Engineering student at Dokuz Eylül University with exp
 ### 🚀 What I Do
 - 💻 **Full-Stack Development:** Building robust applications using Spring Boot, React, and Angular.
 - 🏗️ **Architecture:** Designing Microservices using Spring Cloud, Docker, and GCP.
-- 🤖 **AI Integration:** Developing AI-powered applications utilizing local LLMs (Llama 3.1), LangChain4j, RAG architectures, and NLP pipelines.
+- 🤖 **AI Integration:** Developing AI-powered applications utilizing LLM's, LangChain4j, RAG architectures, and NLP pipelines.
 
 ### 🛠️ Tech Stack
 - **Languages:** Java, C, SQL, HTML, CSS
