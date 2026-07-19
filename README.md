@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah Demirci!👋
 
-I am a 4th-year Computer Engineering student at Dokuz Eylül University with experience in backend, frontend, and mobile development.I am highly interested in building scalable full-stack applications and continuously improving my technical skills. 
+I am a Software Engineer graduated from Dokuz Eylül University with experience in backend, frontend, and mobile development.I am highly interested in building scalable full-stack applications and continuously improving my technical skills. 
 
 ### 🚀 What I Do
 - 💻 **Full-Stack Development:** Building robust applications using Spring Boot, React, and Angular.
