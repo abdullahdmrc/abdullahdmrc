@@ -8,7 +8,7 @@ I am a Software Engineer graduated from Dokuz Eylül University with experience 
 - 🤖 **AI Integration:** Developing AI-powered applications utilizing LLM's, LangChain4j, RAG architectures, and NLP pipelines.
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, Python, C, SQL, HTML, CSS
+- **Languages:** Java,C, SQL, HTML, CSS
 - **Frameworks/Libraries:** Spring Boot, React, Angular, Bootstrap 
 - **Databases:** PostgreSQL, MongoDB, Firebase 
 - **Tools & Infrastructure:** Docker, GitHub Actions, Google Cloud Platform 
